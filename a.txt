@@ -1,1 +1,1 @@
-aaaaaaa
+int a = 1;
