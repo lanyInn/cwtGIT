@@ -1,1 +1,1 @@
-aaaaaaa
+int b = 2;
